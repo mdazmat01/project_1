@@ -1,0 +1,11 @@
+*{
+    background-color: aqua;
+    color: black;
+}
+.thead,.tbody{
+    border: 2px;
+    padding: 1px;
+}
+.table{
+    border-collapse: collapse;
+}
